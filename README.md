@@ -91,3 +91,10 @@ Create a DataFrame called size_summary that breaks down school performance based
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+# Observations and Conclusions 
+- Amongst the 15 schools in the district, there is a total of 39,170 students. Based of the average of the math and reading scores, we can conclude that overall students score higher in reading by about 3 points.
+- The top schools with the most students are district school. Charter schools have twice as less students. Despite this observation, the budget per student ranges from $500-$600 across both type of schools. 
+- Charters schools have a higher overall pass rate. This can be attributed to their smaller school sizes meaning the ratio of students per teacher is lower. That means teachers can allocate more time to each student. 
+- Even though charter and district schools have similar average math and reading scores, the top five performing schools based on overall pass rates are all charter schools and the five lowest performing are district schools. 
+- We can see the test scores broken up by grade averages a "B" across the board for charter schools. 
